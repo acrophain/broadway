@@ -1,5 +1,5 @@
 .mybgi {
-  background-image:  image("../images/the-flatiron-building.jpg");
+  background-image:  url("../images/the-flatiron-building.jpg");
 }
 * {
   text-align: center;
