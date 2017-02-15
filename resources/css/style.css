@@ -11,7 +11,7 @@ h1 {
   font-family: Helvetica;
   font-size: 70px;
   font-weight: bold;
-  color: white;
+  color: black;
 }
 .center {
   text-align: left;
@@ -19,7 +19,7 @@ h1 {
 .button {
   font-family: Helvetica;
   font-size: 18px;
-  color: white;
+  color: black;
 }
 h2 {
   font-family: Helvetica;
