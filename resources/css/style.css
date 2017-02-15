@@ -1,14 +1,17 @@
 .backgroundimage {
   background-image: image("./resoures/images/the-flatiron-building.jpg");
 }
-/** {
+* {
   text-align: center;
-}*/
+}
 h1 {
   font-family: Helvetica;
   font-size: 70px;
   font-weight: bold;
   color: white;
+}
+.center {
+  text-align: left;
 }
 .button {
   font-family: Helvetica;
@@ -32,8 +35,8 @@ p {
 h3 .backgrounddiv {
   color: white;
 }
+
 .footer {
-  text-align: left;
   font-family: Helvetica;
   font-size: 11px;
   color: white;
