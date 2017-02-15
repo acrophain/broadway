@@ -1,13 +1,13 @@
 
 
 .mybgi {
-  background-image:  image(("../images/the-flatiron-building.jpg");
+  background-image:  image("../images/the-flatiron-building.jpg");
 }
 * {
   text-align: center;
 }
 
-.mybgi h1 {
+h1 {
   font-family: Helvetica;
   font-size: 70px;
   font-weight: bold;
